@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "699914462747",
+    "project_id": "prismatics-62cc4",
+    "storage_bucket": "prismatics-62cc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699914462747:android:b0fccda68f561af853fabe",
+        "android_client_info": {
+          "package_name": "com.example.prismatics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCau3I7PpkRYJs1AicKGnzxmd-2GL89800"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
